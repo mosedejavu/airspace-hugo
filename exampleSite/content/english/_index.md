@@ -2,10 +2,9 @@
 banner:
   enable: true
   bg_image: images/banner-1_11zon.jpg
-  bg_overlay: true
-  title: A Digital Marketing <br/> & Design Agency
-  content: We love the Web and the work we do.We work closely with our clients to
-    deliver  the best possible solutions for their needs
+  bg_overlay: false
+  title: ''
+  content: ''
   button:
     enable: true
     label: Discover Our Project
