@@ -1,12 +1,12 @@
 ---
 banner:
   enable: true
-  bg_image: images/img_20210329_230714_673_11zon.jpg
+  bg_image: images/img_20210329_230714_673.jpg
   bg_overlay: false
   title: ''
   content: ''
   button:
-    enable: false
+    enable: true
     label: Discover Our Project
     link: project
 about:
