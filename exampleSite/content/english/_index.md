@@ -21,7 +21,7 @@ about:
     In my quest to creating more impact, I realized many people in my community usually dump textile and plastic wastes by the road side while some even go to the extent of burning them thereby depleting the ozone layer which is hazardous to our health and environment thus prompted me to use my weaving skills at Jokelinks to create an innovative solution by starting planet 3R initiative.
 
     We have been able to bridge the gap by providing solutions to the problems other existing solutions were not looking into.
-  image: images/wrapper-img.png
+  image: images/banner-1_11zon.jpg
 portfolio:
   enable: true
   bg_image: images/feature-bg.jpg
