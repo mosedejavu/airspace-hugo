@@ -1,7 +1,7 @@
 ---
 banner:
   enable: true
-  bg_image: "/images/banner-2.jpg"
+  bg_image: images/cropped_11zon.jpg
   bg_overlay: false
   title: ''
   content: ''
