@@ -73,6 +73,10 @@ funfacts:
     name: 'Empowerment of Unemployed Youths '
     count: "500"
   testimonial_slider:
+  - name: ''
+    image: ''
+    designation: ''
+    content: ''
   - name: Adejoke Lasisi
     image: images/img-20180814-wa0002.jpg
     designation: CEO-Planet3R
