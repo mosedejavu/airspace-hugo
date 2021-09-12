@@ -25,7 +25,7 @@ about:
   funfacts: []
 portfolio:
   enable: true
-  bg_image: images/img_20210430_230815_524_11zon_11zon_11zon.jpg
+  bg_image: images/edited-min_11zon-1.png
   title: CONVERTING TEXTILE AND PLASTIC WASTES INTO ECO-FRIENDLY PRODUCTS
   content: |
     Dumping of wastes on the roadside and inside drainage channels especially single use plastics are currently one of the biggest environmental concerns. It causes groundwater pollution, marine pollution resulting in animal deaths and the many other adverse effects on the environment.
