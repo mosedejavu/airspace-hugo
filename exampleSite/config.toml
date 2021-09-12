@@ -19,7 +19,7 @@ name = "Mehr"
 weight = 5
 [languages.en]
 contentDir = "content/english"
-copyright = "Copyright &copy; 2021 [Themefisher](https://themefisher.com). All Rights Reserved."
+copyright = "Copyright &copy; 2021 Planet3R.  All Rights Reserved.. All Rights Reserved."
 languageCode = "en-US"
 languageName = "English"
 weight = 1
