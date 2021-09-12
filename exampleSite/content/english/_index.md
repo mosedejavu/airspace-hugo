@@ -60,9 +60,9 @@ funfacts:
     2019. Prototype/ MVP built in May 2019 and First external users on the product
     in August 2019. '
   funfact_item:
-  - icon: ion-ios-chatboxes-outline
-    name: Cups Of Coffee
-    count: "99"
+  - icon: ion-archive
+    name: Eco-friendly Products
+    count: "30"
   - icon: ion-ios-glasses-outline
     name: Article Written
     count: "45"
