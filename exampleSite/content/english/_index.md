@@ -39,14 +39,16 @@ portfolio:
   enable: true
   bg_image: images/banner-2.jpg
   title: CONVERTING TEXTILE AND PLASTIC WASTES INTO ECO-FRIENDLY PRODUCTS
-  content: " Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur
-    ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris
-    condimentum nibh, ut fermentum massa justo sit amet risus.\n\nMaecenas faucibus
-    mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.
-    Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum
-    massa justo sit amet risus.\n\nMaecenas faucibus mollis interdum. Morbi leo risus,
-    porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo,
-    tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. "
+  content: |
+    Dumping of wastes on the roadside and inside drainage channels especially single use plastics are currently one of the biggest environmental concerns. It causes groundwater pollution, marine pollution resulting in animal deaths and the many other adverse effects on the environment.
+
+    Our initiative focuses on the empowerment of unemployed youths by training them on effective ways to earn income from recycling plastic and textile waste.  We weave the wastes into eco-friendly products. We also engage in Grassroots and Creative Awareness programs geared Towards Achieving a Clean Environment.
+
+    Our competitive advantage is the fact that we recycle used nylons with locally made loom while creative hub, pearl recycling make use of plastics and foreign machinery.
+
+    We creatively shred old clothes and used nylons (especially pure water sachets) then weave them by converting into finished products. These finished products are fashion wears, home decors, bags, accessories etc.
+
+    At Planet 3R, we not only make environmental impacts but also create employment opportunity by empowering youths. We also plan to improve our economy through locally generated raw materials and export opportunities
   button:
     enable: true
     label: View Works
