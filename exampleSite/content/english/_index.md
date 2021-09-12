@@ -6,7 +6,7 @@ banner:
   title: ''
   content: ''
   button:
-    enable: true
+    enable: false
     label: Discover Our Project
     link: project
 about:
