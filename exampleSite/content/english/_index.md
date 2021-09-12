@@ -55,10 +55,10 @@ cta:
     link: contact
 funfacts:
   enable: true
-  title: Fun Facts About Us
-  description: "'Far far away, behind the word mountains, far from the countries Vokalia
-    and Consonantia, <br> there live the blind texts. Separated they live in Bookmarksgrove
-    right at the coast of the Semantics'"
+  title: Words From Our Mouths
+  description: 'Our milestones consist of defining Core Business Concept in February
+    2019. Prototype/ MVP built in May 2019 and First external users on the product
+    in August 2019. '
   funfact_item:
   - icon: ion-ios-chatboxes-outline
     name: Cups Of Coffee
