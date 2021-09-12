@@ -1,7 +1,7 @@
 ---
 banner:
   enable: true
-  bg_image: images/cropped_11zon.jpg
+  bg_image: images/img_20210329_230714_673_11zon.jpg
   bg_overlay: false
   title: ''
   content: ''
