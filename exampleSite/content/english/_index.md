@@ -22,19 +22,7 @@ about:
 
     We have been able to bridge the gap by providing solutions to the problems other existing solutions were not looking into.
   image: images/banner-1_11zon.jpg
-  funfacts:
-  - icon: ion-archive
-    name: Eco-friendly Products
-    count: "30"
-  - icon: ion-arrow-expand
-    name: Recycled Clothes and Nylons
-    count: "10000"
-  - icon: ion-bonfire
-    name: Creative Awareness Programs
-    count: "30"
-  - icon: ion-earth
-    name: 'Empowerment of Unemployed Youths '
-    count: "500"
+  funfacts: []
 portfolio:
   enable: true
   bg_image: images/banner-2.jpg
