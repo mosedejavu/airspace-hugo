@@ -1,5 +1,5 @@
 baseURL = "http://planet3rr.netlify.app"
-disableLanguages = []
+disableLanguages = ["Fr", "It", "De"]
 disqusShortname = ""
 googleAnalytics = ""
 paginate = "15"
@@ -60,9 +60,9 @@ min = "0.87.0"
 home = ["HTML"]
 [params]
 author = "Themefisher"
-description = "This is meta description"
-image = "images/logo.png"
-logo = "images/logo.png"
+description = ""
+image = "/images/logo-2_11zon.jpg"
+logo = "/images/logo-2_11zon.jpg"
 logo_width = "150px"
 [params.contact]
 address_descriptors = false
