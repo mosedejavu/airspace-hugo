@@ -50,7 +50,7 @@ portfolio:
 
     At Planet 3R, we not only make environmental impacts but also create employment opportunity by empowering youths. We also plan to improve our economy through locally generated raw materials and export opportunities
   button:
-    enable: true
+    enable: false
     label: View Works
     link: project
 service:
